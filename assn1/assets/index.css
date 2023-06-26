@@ -1,0 +1,714 @@
+.body
+{
+    background-color: rgb(20, 30, 20);
+}
+
+.header
+{
+    position: fixed;
+    background-color: rgb(20, 30, 20);
+}
+
+.menu-bar
+{
+    height: 70px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    
+}
+
+#navbarSupportedContent
+{
+    float: right;
+    margin-left: 600px;
+}
+
+a.navlink:hover{
+    color: #159e35;
+} 
+
+#nav-bar {
+    color: rgba(255, 255, 255, 0.733);
+    font-weight: 550;
+    font-size: 22px;
+    padding: 20px;
+   
+}
+
+#nav-bar:hover {
+    color: #0c7b43;
+
+}
+
+#nav-bar
+{
+    padding: 30px;
+    font-size: 25px;
+}
+
+#box{
+
+    box-sizing: border-box;
+
+}
+
+.boxcontainer{
+    padding: 200px 150px 200px 40px;
+}
+
+.horizontal
+{
+    background-color: rgba(255, 255, 255, 0.733);
+    height: 1px;
+    
+    width: 2000px;
+    
+}
+
+.greetingtext
+{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.greeting-text
+{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 40px;
+    font-weight: 600;
+   
+}
+
+.greeting-proficiency
+{
+    color: rgba(255, 255, 255, 0.733);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.greeting{
+    
+    
+    border-radius: 20px;
+    height: 60px;
+    text-align: center;
+}
+
+.mypic
+{
+    height: 500px;
+    width: 400px;
+    border-radius: 15px;
+   
+}
+
+.resume
+{
+    padding: 40px 0px 60px 0px;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid hsla(0,0%,82.7%,.397);
+    
+    width: 400px;
+    margin:20px 20px 50px 0px
+}
+
+a.resume-rem:link
+{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: #325846;
+}
+
+a.resume-rem:hover
+{
+    color: #325846; 
+}
+
+a.resume-rem:active
+{
+    color: #119d2d; 
+}
+
+
+.lett
+{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.92);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.lettd
+{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.87);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 490px;
+    margin-left: -52px;
+    
+}
+
+
+.letth
+{
+    font-size: 25px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -80px;
+    
+}
+
+.lettdd
+{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.872);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 330px;
+    margin-left: -52px;
+   
+}
+
+.lettd-project
+{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.847);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.space
+{
+    padding-right: 20px;
+    font-size: 40px;
+    font-weight: 400;
+    
+}
+
+.icon-button
+{
+    padding: 20px;
+}
+
+#box1
+{
+     padding: 200px 400px 100px 40px;
+     
+    
+}
+
+#box4
+{
+    padding: 200px 0px 100px 0px ;
+}
+
+.name
+{
+    color: #159e35;
+    font-size: 95px;
+    margin-bottom: -55px;
+}
+
+.name1
+{
+    color: #159e35;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.name2
+{
+    color: rgba(255, 255, 255, 0.733);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-bottom: 20px;
+    
+}
+
+.name1-project
+{
+    color: #159e35;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 55px;
+   
+}
+
+.name-hire
+{
+    color: #159e35;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.headline
+{
+    color: #648775;
+    text-decoration:underline;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.v1
+{
+    border-left: 1px solid #213129;
+}
+
+.text-about
+{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 35px;
+    font-weight: 500;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #18251f;
+    border-radius: 30px;
+    border-spacing: 10px;
+    height: 550px;
+    padding: 50px;
+    box-shadow: 0 10px 30px -15px rgba(247, 246, 246, 0.525);
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid hsla(0,0%,82.7%,.397);
+}
+
+#box4
+{
+    padding: 10px -70px 100px 100px;
+}
+
+#box6
+{
+    margin: -90px 50px;
+}
+
+.text-about-project
+{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 35px;
+    font-weight: 500;
+    padding: 20px;
+    box-shadow: black;
+    
+   
+}
+
+.Project-text
+{
+    background-color: rgb(20, 30, 20);
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 25px;
+    font-weight: 400;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 10px 30px -15px rgba(247, 246, 246, 0.525);
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid hsla(0,0%,82.7%,.397);
+}
+
+.msqqmw1
+{
+    padding: 100px;
+}
+
+.msqqmw
+{
+    padding: 100px;
+}
+
+
+
+.space1
+{
+    padding-right: 20px;
+    font-size: 40px;
+    font-weight: 400; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.text-about-skills
+{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 35px;
+    font-weight: 500;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:  #18251f;
+    border-radius: 30px;
+    width: 1000px;
+    height: 350px;
+    padding: 50px;
+    box-shadow: 0 10px 30px -15px rgba(247, 246, 246, 0.525);
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid hsla(0,0%,82.7%,.397);
+}
+
+.text-about-hire
+{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 35px;
+    font-weight: 500;
+    float: left;
+    font-family:sans-serif;
+    background-color: #18251f;
+    width: 1600px;
+    height: 350px;
+    padding: 50px ;
+    text-align: center;
+    margin-left: -130px;
+    
+}
+
+.text-list
+{
+    text-align: left;
+    margin: 20px 20px 0px 0px;
+}
+
+.point-list
+{
+    padding: 50px 50px 50px 20px;
+}
+
+.first-half1
+{
+    width: 1500px;
+    margin-left: -100px;
+}
+
+.button-finger
+{
+    border-radius: 10px;
+    border: 1px solid hsla(0,0%,82.7%,.397);
+    float: right;
+    width: 60px;
+    margin: 20px;
+    height: 60px;
+    font-size: 40px;
+}
+
+a.button-bt:link
+{
+    text-decoration: none;
+    color: whitesmoke; 
+}
+
+@media screen and (min-width: 320px) and (max-width: 475px) {
+    
+    .first-half
+    {
+     width: 500px;
+    }
+
+    .name
+    {
+     font-size: 50px;
+
+    }
+
+    .icon-button
+    {
+        padding: 3px 3px 10px 3px;
+    }
+
+    .resume
+    {
+        width: 200px;
+    }
+
+    .mypic
+    {
+        height: 400px;
+        width: 300px;
+        padding: 30px 0px 0px 0px;
+
+    }
+
+.text-list
+{
+    width: 300px;
+}
+
+    .text-about
+    {
+     height: 1200px;
+     width: 450px;
+    }
+
+    .space1
+    {
+     width: 500px;
+    }
+ 
+    .lett
+    {
+        width: 200px;
+    }
+    .lettd
+    {
+        width: 200px;
+    }
+
+    .text-about
+    {
+        margin-bottom: 50px;
+    }
+
+    .name1-project
+    {
+        margin-left: 50px;
+    }
+
+    .text-about-project
+    {
+        margin-left: 40px;
+    }
+    
+    .text-about-skills
+    {
+        margin-left: 40px;
+        width: 450px;
+        height: 600px;
+        margin-top: -50px;
+    }
+    .Project-text
+    {
+        margin-left: 40px;
+    }
+    .lettdd
+    {
+    margin-left: 40px;
+    margin-top: 500px;
+    }
+
+    .greeting-proficiency
+    {
+        
+    }
+    .progress
+    {
+        width: 400px;
+    }
+    .name2
+    {
+        margin-left: 0px;
+    }
+
+    .text-about-hire
+    {
+    width: 1000px;
+    height: 400px;
+    margin-left: -300px;
+
+    }
+
+    .letth
+    {
+      text-align: center;
+      
+       
+    }
+    .msqqmw1
+    {
+        width: 400px;
+       margin-left: 230px;
+        
+    }
+    .name-hire
+    {
+       
+    }
+
+    .button-finger
+    {
+        text-align: center;
+    }
+  }
+
+
+  
+
+
+  @media screen and (min-width: 650px) and (max-width: 1050px) {
+    .menu-bar
+    {
+         
+    }
+
+    .header
+    {
+        
+    }
+    #navbarSupportedContent
+    {
+       
+       text-align: center;
+       
+    }
+
+    #nav-bar {
+        
+       
+    }
+
+    .nav-item
+    {
+
+    }
+
+    .first-half
+    {
+     width: 500px;
+    }
+
+    .name
+    {
+     font-size: 50px;
+
+    }
+
+    .icon-button
+    {
+        padding: 3px 3px 10px 3px;
+    }
+
+    .resume
+    {
+        width: 200px;
+    }
+
+    .mypic
+    {
+        height: 400px;
+        width: 330px;
+        padding: 30px;
+        margin-top: 150px;
+    }
+
+    .text-about
+    {
+     height: 800px;
+     width: 700px;
+    }
+
+    .space1
+    {
+     width: 500px;
+    }
+ 
+    .lett
+    {
+        width: 200px;
+    }
+    .lettd
+    {
+        width: 200px;
+        text-align: center;
+        margin-left: 160px;
+        margin-top: 800px;
+    }
+
+    .text-about
+    {
+        margin-bottom: 50px;
+    }
+
+    .headline 
+    {
+
+    }
+    .name1-project
+    {
+        margin-left: 50px;
+    }
+
+    #boxcontainer
+    {
+        padding: 20px;
+        width: 900px;
+    }
+    #box4
+    {
+        padding: 100px 0px 100px 0px;
+        margin: 0px;
+    }
+    .text-about-project
+    {
+        margin-left: 40px;
+        width: 200px;
+    }
+    
+    .text-about-skills
+    {
+        margin-left: 40px;
+        width: 600px;
+        height: 400px;
+    }
+    .Project-text
+    {
+        margin-left: 40px;
+        width: 200px;
+        
+    }
+    .lettdd
+    {
+    margin-left: 40px;
+    }
+
+    .progress
+    {
+        width: 800px;
+        margin-left: -70px;
+    }
+    .name2
+    {
+        margin-left: -40px;
+    }
+
+    .text-about-hire
+    {
+    width: 1000px;
+    height: 400px;
+    }
+
+    .lettd
+    {
+      text-align: center;  
+       
+    }
+    .msqqmw
+    {
+        width: 400px;
+       margin-left: 30px;
+        
+    }
+    .letth
+    {
+      text-align: center;  
+       
+    }
+    .msqqmw1
+    {
+        width: 400px;
+       margin-left: 230px;
+        
+    }
+    .name-hire
+    {
+
+    }
+
+    .button-finger
+    {
+        text-align: center;
+    }
+  }
+
+
+
+
